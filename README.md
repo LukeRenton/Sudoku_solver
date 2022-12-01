@@ -1,5 +1,5 @@
 # Sudoku_solver
-Sudoku solvers for 9x9, 16x16 and 25x25 grids using text based puzzles as seen below:  
+Sudoku puzzle solvers for 9x9, 16x16 and 25x25 grids using text based puzzles as seen below:  
 0 4 0 0 0 0 1 7 9  
 0 0 2 0 0 8 0 5 4  
 0 0 6 0 0 5 0 0 8  
